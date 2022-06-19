@@ -1,0 +1,3 @@
+if we does not want to call our api everytime.
+we will call one time and then we will play with the api data/output, in that case we will use sync method.
+let see in the example.
